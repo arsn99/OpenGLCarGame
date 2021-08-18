@@ -10,9 +10,8 @@
 - Реализовать систему звукового сопровождения (перемещение машины, удар по мячу, фоновая музыка);
 .Exe располагается  x64/Release/Rocket.exe
 
-Примеры:
+Пример:
 
-![image](https://user-images.githubusercontent.com/58989414/129885260-7c178584-5515-4713-8955-5ff38bfbf604.png)
+![5jz82t](https://user-images.githubusercontent.com/58989414/129894797-5935dd01-f419-4613-842d-1fe56d563aa8.gif)
 
-![image](https://user-images.githubusercontent.com/58989414/129885518-ea67adaa-f442-43e7-ac55-dd131f224b73.png)
 
